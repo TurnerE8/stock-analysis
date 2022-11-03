@@ -1,0 +1,20 @@
+# Overview of Stock Analysis Project
+    The purpose of this specific stock analysis challenge was to refactor our initial code we used during the module. 
+    The module allowed us to analyze a dozen stocks at a time using VBA - allowing for quicker analysis overall. 
+    After completing the module, the initial code could have benefitted from refactoring.
+    So, as a result, I refactored the code allowing for a faster return after running the subroutine. 
+
+# Results
+    The refactored code for the year 2018 resulted in a faster return time. Screenshots are available in Github. 
+    However, I struggle understanding how much actual "refactoring" we did to the original code. 
+    The biggest change to the code was the use of the tickerIndex variable. 
+
+# Advantages
+    The advantage of refactoring code is that it results in cleaner code overall. This allows the macro to run faster. 
+    Refactoring code can lead to more of a simple understanding of what is going on if another person were to look at it. 
+
+# Disadvantages
+    I discovered the disadvantages of refactoring code. One of which was that it can be time-consuming.
+    At various times throughout the challenge, I started questioning what I had done in the original code which led to confusion when I want to adjust it. 
+    Another disadvantage is that it can "dumb" the code down too much - leading to others not understanding the code. 
+    Adding comments along the way is crucial. 
